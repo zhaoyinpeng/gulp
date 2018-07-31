@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'myFont';
+  src: url('../font/SerendityScript.woff'), url('../font/SerendityScript.woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+.a {
+  border: 1px solid #ccc;
+  color: red;
+  font-family: 'myFont';
+  font-size: 20px;
+}
+#b {
+  border: 1px solid #ccc;
+  color: blue;
+  border-radius: 1px;
+  font-family: 'myFont';
+  font-size: 30px;
+}
+a {
+  font-family: 'myFont';
+}
